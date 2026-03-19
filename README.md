@@ -47,10 +47,18 @@ Run, observe, and control AI agents entirely in the browser — no backend requi
 ## See It In Action
 
 <p align="center">
+  <img src="screenshot-ppt.png" alt="ClawLess — AI Agent building a PowerPoint presentation using pptxgenjs" width="900" />
+</p>
+
+<p align="center"><em>An AI agent using learned skills to build a 9-slide Lobster presentation with pptxgenjs — installed and executed entirely in the browser.</em></p>
+
+ClawLess runs a full Node.js runtime in the browser via WebContainers — that means access to **3.4 million+ npm packages**. In this example, the agent installs `pptxgenjs`, generates a polished PowerPoint file with charts, images, and styled layouts, and saves it to the virtual filesystem — all without a server. The agent even learns and crystallizes reusable skills for future tasks.
+
+<p align="center">
   <img src="screenshot.png" alt="ClawLess — AI Agent building a calculator app inside a WASM sandbox" width="900" />
 </p>
 
-<p align="center"><em>An AI agent running inside ClawLess — building and previewing a calculator app, entirely in the browser.</em></p>
+<p align="center"><em>An AI agent building and previewing a calculator app — code, execution, and live preview, all inside the browser.</em></p>
 
 The agent runs inside a WebContainer with full virtual filesystem access — reading, writing, and executing files in an isolated WASM runtime. No server, no backend, no access to the host system. Everything from code generation to live preview happens within the sandboxed browser environment, completely isolated from your machine.
 

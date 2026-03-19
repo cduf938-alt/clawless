@@ -54,6 +54,14 @@ Run, observe, and control AI agents entirely in the browser — no backend requi
 
 The agent runs inside a WebContainer with full virtual filesystem access — reading, writing, and executing files in an isolated WASM runtime. No server, no backend, no access to the host system. Everything from code generation to live preview happens within the sandboxed browser environment, completely isolated from your machine.
 
+<p align="center">
+  <img src="screenshot-audit.png" alt="ClawLess — Complete audit logging and observability" width="900" />
+</p>
+
+<p align="center"><em>Full audit trail — every process spawn, file write, network request, and agent action is logged and filterable.</em></p>
+
+Every action inside the container is tracked end-to-end: process lifecycle, file I/O, network requests/responses, environment configuration, and policy enforcement. Sensitive headers like API keys are automatically masked. Filter by source, level, or event type — and download the full audit log for compliance and debugging.
+
 ---
 
 ## Key Features

@@ -44,6 +44,18 @@ Run, observe, and control AI agents entirely in the browser — no backend requi
 
 ---
 
+## See It In Action
+
+<p align="center">
+  <img src="screenshot.png" alt="ClawLess — AI Agent building a calculator app inside a WASM sandbox" width="900" />
+</p>
+
+<p align="center"><em>An AI agent running inside ClawLess — building and previewing a calculator app, entirely in the browser.</em></p>
+
+The agent runs inside a WebContainer with full virtual filesystem access — reading, writing, and executing files in an isolated WASM runtime. No server, no backend, no access to the host system. Everything from code generation to live preview happens within the sandboxed browser environment, completely isolated from your machine.
+
+---
+
 ## Key Features
 
 - **WebContainer-powered sandboxed runtime (WASM)** — full OS-level isolation in the browser

